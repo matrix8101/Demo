@@ -1,0 +1,6 @@
+{
+  "storage_account": "matrixsa",
+  "container_input": "input",
+  "container_output": "output",
+  "secret_scope": "adls-scope"
+}   
